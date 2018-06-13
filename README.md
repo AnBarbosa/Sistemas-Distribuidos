@@ -20,7 +20,8 @@ http://professor.ufabc.edu.br/~e.francesquini/sd/#orga505b9a
 4. Feche os streams
 5. Feche o socket
 
-Referencias:
-*[Sockets](https://docs.oracle.com/javase/tutorial/networking/sockets)
+####Referencias:
 
-*[Datagrams](https://docs.oracle.com/javase/tutorial/networking/datagrams)
+* [Sockets](https://docs.oracle.com/javase/tutorial/networking/sockets)
+
+* [Datagrams](https://docs.oracle.com/javase/tutorial/networking/datagrams)
